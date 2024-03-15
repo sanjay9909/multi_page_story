@@ -1,0 +1,37 @@
+body{
+    background-image:url(https://as2.ftcdn.net/v2/jpg/06/31/95/01/1000_F_631950196_QNNZpeNwoBcCizQfIbUsV0XZeUoA17xg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    height: 300px;
+    width: 250px;
+    border-radius: 50px 50px 50px 50px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px wheat;
+    opacity: 0.6;
+    
+}
+img:hover{
+    transform: scale(1.2);
+}
+img:hover{
+    opacity: 2;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+h3{
+    color: rgb(14, 5, 143);
+    font-size: x-large;
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    font-size: xxx-large;
+    color: rgb(14, 5, 143);
+    text-shadow: 5px 5px 5px blanchedalmond
+    
+}
